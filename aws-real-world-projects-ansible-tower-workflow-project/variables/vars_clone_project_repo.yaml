@@ -5,7 +5,7 @@ become_root : yes
 
 # Project Repository and Branch
 project_repository    : https://github.com/anyanpee/ansible-tower-setup.git
-destination_clone_path: C:\Users\slimp\Desktop\repository\ansible-tower-setup-master\aws-real-world-projects-ansible-tower-workflow-project
+destination_clone_path: aws-real-world-projects-ansible-tower-workflow-project/variables/vars_clone_project_repo.yaml
 project_repo_branch   : master
 # clone_project_repo    : yes
 # update_project_repo   : yes
